@@ -17,6 +17,7 @@ print("bag" > "apple")
 
 
 # conditional statements
+#indenting and : are very important in conditional statements
 
 temperature = 15
 if temperature > 25:
