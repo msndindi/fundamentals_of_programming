@@ -75,3 +75,15 @@ if (high_income or good_credit) and not student:
     print("Eligible for loan")
 else:
     print("Not eligible for loan")
+
+
+
+#and operator
+dog_age = 11
+dog_home =  "Alta"
+
+message = "Eligible for vaccination" if (dog_age > 10 and dog_home == "Alta") else "Not eligible for vaccination"
+print(message)
+
+
+
